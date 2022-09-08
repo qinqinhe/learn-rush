@@ -1,0 +1,17 @@
+{
+  "name": "@laney/components",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@laney/components_v1.0.1",
+      "date": "Thu, 08 Sep 2022 16:26:49 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@laney/hooks\" to `2.0.0`"
+          }
+        ]
+      }
+    }
+  ]
+}

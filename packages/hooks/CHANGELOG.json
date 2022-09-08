@@ -1,0 +1,17 @@
+{
+  "name": "@laney/hooks",
+  "entries": [
+    {
+      "version": "2.0.0",
+      "tag": "@laney/hooks_v2.0.0",
+      "date": "Thu, 08 Sep 2022 16:26:49 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "第一次提交"
+          }
+        ]
+      }
+    }
+  ]
+}
