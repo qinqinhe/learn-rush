@@ -1,0 +1,14 @@
+{
+  "allPreferredVersions": {
+    "@laney/hooks": "workspace:*",
+    "react": "~18.2.0",
+    "react-dom": "~18.2.0"
+  },
+  "allowedAlternativeVersions": {},
+  "workspaceVersions": {
+    "@laney/components": "1.0.0",
+    "@laney/hooks": "1.0.0"
+  },
+  "semverPath": "/usr/local/lib/node_modules/@microsoft/rush/node_modules/semver/index.js",
+  "userPnpmfilePath": "/Users/apple/Desktop/learning/learn-rush/common/config/rush/.pnpmfile.cjs"
+}
