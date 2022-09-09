@@ -1,7 +1,7 @@
 {
   "node": "16.16.0",
   "packageManager": "pnpm",
-  "packageManagerVersion": "6.7.1",
+  "packageManagerVersion": "7.9.0",
   "rushJsonFolder": "/Users/apple/Desktop/learning/learn-rush",
   "storePath": "/Users/apple/Desktop/learning/learn-rush/common/temp/pnpm-store",
   "workspaces": true
