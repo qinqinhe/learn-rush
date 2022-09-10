@@ -13,6 +13,8 @@ export default {
       swc({
         ...swcConfig,
       }),
-      typescript()
+      typescript({
+        tsconfig: "./tsconfig.json",
+      })
     ]
   };
