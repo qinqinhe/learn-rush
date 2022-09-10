@@ -1,4 +1,3 @@
-This workspace does not appear to be tracked by Git. Rush will proceed without incremental execution, caching, and change detection.
 Invoking: rollup -c 
 
 ./index.ts → ./dist/index.js...
@@ -48,8 +47,8 @@ src/Loading/Loading.tsx: (4:9)
 
 (!) Unresolved dependencies
 https://rollupjs.org/guide/en/#warning-treating-module-as-external-dependency
-react/jsx-runtime (imported by src/Loading/loading.tsx, src/Button/button.tsx)
-react (imported by src/Loading/loading.tsx, src/Button/button.tsx)
+react/jsx-runtime (imported by src/Button/button.tsx, src/Loading/loading.tsx)
+react (imported by src/Button/button.tsx, src/Loading/loading.tsx)
 (!) Unused external imports
-default imported from external module "react" but never used in "src/Loading/loading.tsx" and "src/Button/button.tsx"
-created ./dist/index.js in 486ms
+default imported from external module "react" but never used in "src/Button/button.tsx" and "src/Loading/loading.tsx"
+created ./dist/index.js in 450ms
