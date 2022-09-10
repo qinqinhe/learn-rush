@@ -1,3 +1,2 @@
-import { count } from "@laney/hooks";
-console.log('count:', count);
-export const a = 1;
+export { default as Button} from "./src/Button/button";
+export { default as Loading} from "./src/Loading/loading";
