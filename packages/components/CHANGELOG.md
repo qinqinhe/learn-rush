@@ -1,6 +1,13 @@
 # Change Log - @laney/components
 
-This log was last generated on Sat, 10 Sep 2022 12:51:03 GMT and should not be manually modified.
+This log was last generated on Sat, 10 Sep 2022 13:02:33 GMT and should not be manually modified.
+
+## 1.3.0
+Sat, 10 Sep 2022 13:02:33 GMT
+
+### Minor changes
+
+- 再次
 
 ## 1.2.0
 Sat, 10 Sep 2022 12:51:03 GMT
