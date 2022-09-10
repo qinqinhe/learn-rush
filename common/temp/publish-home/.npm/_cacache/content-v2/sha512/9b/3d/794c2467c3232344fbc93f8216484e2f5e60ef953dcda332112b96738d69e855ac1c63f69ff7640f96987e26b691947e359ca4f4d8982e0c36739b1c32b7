@@ -1,0 +1,45 @@
+{
+  "name": "@laney/components",
+  "versions": {
+    "1.0.1": {
+      "name": "@laney/components",
+      "version": "1.0.1",
+      "description": "",
+      "main": "index.js",
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "dependencies": {
+        "@laney/hooks": "2.0.0",
+        "react": "~18.2.0",
+        "react-dom": "~18.2.0"
+      },
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "gitHead": "a4678f2d50c6698815b36e65a460a8877babdf7a",
+      "_id": "@laney/components@1.0.1",
+      "_nodeVersion": "16.16.0",
+      "_npmVersion": "8.11.0",
+      "dist": {
+        "integrity": "sha512-S6zQcZYLe+MQnJseaRfVa6xl56D3ZVHFktrKITRUFQdWE4zQPHWzOBwGxzE0c5XLgjZQ9eFFr8EsZF01Rmj9Zw==",
+        "shasum": "eb38fba41a01bbf9ca479d3d920e34e5a8f419c9",
+        "tarball": "http://localhost:4873/@laney%2fcomponents/-/components-1.0.1.tgz"
+      },
+      "contributors": []
+    }
+  },
+  "time": {
+    "modified": "2022-09-08T16:26:55.896Z",
+    "created": "2022-09-08T16:26:55.896Z",
+    "1.0.1": "2022-09-08T16:26:55.896Z"
+  },
+  "users": {},
+  "dist-tags": {
+    "latest": "1.0.1"
+  },
+  "_rev": "3-88eed7031d5f3d7d",
+  "_id": "@laney/components",
+  "readme": "ERROR: No README data found!",
+  "_attachments": {}
+}

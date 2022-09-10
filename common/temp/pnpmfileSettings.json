@@ -8,11 +8,12 @@
     "@swc/core": "~1.2.249",
     "@types/react": "~18.0.18",
     "@types/react-dom": "~18.0.6",
-    "rollup-plugin-swc": "~0.2.1"
+    "rollup-plugin-swc": "~0.2.1",
+    "tslib": "~2.4.0"
   },
   "allowedAlternativeVersions": {},
   "workspaceVersions": {
-    "@laney/components": "1.0.3",
+    "@laney/components": "1.1.0",
     "@laney/hooks": "2.0.1"
   },
   "semverPath": "/usr/local/lib/node_modules/@microsoft/rush/node_modules/semver/index.js",

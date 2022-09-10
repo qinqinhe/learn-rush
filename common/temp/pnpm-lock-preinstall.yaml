@@ -15,6 +15,7 @@ importers:
       react: ~18.2.0
       react-dom: ~18.2.0
       rollup-plugin-swc: ~0.2.1
+      tslib: ~2.4.0
       typescript: ~4.8.3
     dependencies:
       '@laney/hooks': link:../hooks
@@ -22,11 +23,12 @@ importers:
       react-dom: 18.2.0_react@18.2.0
       typescript: 4.8.3
     devDependencies:
-      '@rollup/plugin-typescript': 8.5.0_typescript@4.8.3
+      '@rollup/plugin-typescript': 8.5.0_tolwdiperr6qb7nroa47xa7b44
       '@swc/core': 1.2.249
       '@types/react': 18.0.18
       '@types/react-dom': 18.0.6
       rollup-plugin-swc: 0.2.1_@swc+core@1.2.249
+      tslib: 2.4.0
 
   ../../packages/hooks:
     specifiers:
@@ -41,7 +43,7 @@ importers:
 
 packages:
 
-  /@rollup/plugin-typescript/8.5.0_typescript@4.8.3:
+  /@rollup/plugin-typescript/8.5.0_tolwdiperr6qb7nroa47xa7b44:
     resolution: {integrity: sha512-wMv1/scv0m/rXx21wD2IsBbJFba8wGF3ErJIr6IKRfRj49S85Lszbxb4DCo8iILpluTjk2GAAu9CoZt4G3ppgQ==}
     engines: {node: '>=8.0.0'}
     peerDependencies:
@@ -54,6 +56,7 @@ packages:
     dependencies:
       '@rollup/pluginutils': 3.1.0
       resolve: 1.22.1
+      tslib: 2.4.0
       typescript: 4.8.3
     dev: true
 
@@ -371,6 +374,10 @@ packages:
   /supports-preserve-symlinks-flag/1.0.0:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
+    dev: true
+
+  /tslib/2.4.0:
+    resolution: {integrity: sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==}
     dev: true
 
   /typescript/4.8.3:

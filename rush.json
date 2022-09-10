@@ -331,7 +331,9 @@
     /**
      * The list of shell commands to run after the Rush build command finishes
      */
-    "postRushBuild": []
+    "postRushBuild": [
+      "rm ./packages/components/index.ts"
+    ]
   },
 
   /**
