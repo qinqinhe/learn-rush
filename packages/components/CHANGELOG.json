@@ -2,6 +2,18 @@
   "name": "@laney/components",
   "entries": [
     {
+      "version": "1.4.0",
+      "tag": "@laney/components_v1.4.0",
+      "date": "Sat, 10 Sep 2022 13:26:25 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "生成d.ts"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.3.0",
       "tag": "@laney/components_v1.3.0",
       "date": "Sat, 10 Sep 2022 13:02:33 GMT",

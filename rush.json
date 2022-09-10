@@ -325,6 +325,7 @@
      * The list of shell commands to run before the Rush build command starts
      */
     "preRushBuild": [
+      "rm  -rf ./packages/components/dist",
       "node ./packages/components/scripts/gen-entry.js"
     ],
 

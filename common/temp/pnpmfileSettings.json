@@ -12,7 +12,7 @@
   },
   "allowedAlternativeVersions": {},
   "workspaceVersions": {
-    "@laney/components": "1.2.0",
+    "@laney/components": "1.3.0",
     "@laney/hooks": "2.0.1"
   },
   "semverPath": "/usr/local/lib/node_modules/@microsoft/rush/node_modules/semver/index.js",

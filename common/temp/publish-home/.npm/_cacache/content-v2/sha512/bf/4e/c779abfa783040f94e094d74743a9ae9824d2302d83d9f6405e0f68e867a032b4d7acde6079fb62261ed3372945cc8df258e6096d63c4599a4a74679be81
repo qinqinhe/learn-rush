@@ -1,0 +1,133 @@
+{
+  "name": "@laney/components",
+  "versions": {
+    "1.0.1": {
+      "name": "@laney/components",
+      "version": "1.0.1",
+      "description": "",
+      "main": "index.js",
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "dependencies": {
+        "@laney/hooks": "2.0.0",
+        "react": "~18.2.0",
+        "react-dom": "~18.2.0"
+      },
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "gitHead": "a4678f2d50c6698815b36e65a460a8877babdf7a",
+      "_id": "@laney/components@1.0.1",
+      "_nodeVersion": "16.16.0",
+      "_npmVersion": "8.11.0",
+      "dist": {
+        "integrity": "sha512-S6zQcZYLe+MQnJseaRfVa6xl56D3ZVHFktrKITRUFQdWE4zQPHWzOBwGxzE0c5XLgjZQ9eFFr8EsZF01Rmj9Zw==",
+        "shasum": "eb38fba41a01bbf9ca479d3d920e34e5a8f419c9",
+        "tarball": "http://localhost:4873/@laney%2fcomponents/-/components-1.0.1.tgz"
+      },
+      "contributors": []
+    },
+    "1.1.0": {
+      "name": "@laney/components",
+      "version": "1.1.0",
+      "description": "",
+      "main": "index.js",
+      "type": "module",
+      "module": "./dist/index.js",
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "dependencies": {
+        "@laney/hooks": "2.0.1",
+        "react": "~18.2.0",
+        "react-dom": "~18.2.0",
+        "typescript": "~4.8.3"
+      },
+      "devDependencies": {
+        "@types/react-dom": "~18.0.6",
+        "@types/react": "~18.0.18",
+        "rollup-plugin-swc": "~0.2.1",
+        "typescript": "~4.8.3",
+        "@swc/core": "~1.2.249",
+        "@rollup/plugin-typescript": "~8.5.0",
+        "tslib": "~2.4.0"
+      },
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "rollup -c"
+      },
+      "gitHead": "6ceb70292bdb002cacb9ed78211f92907659b0ad",
+      "_id": "@laney/components@1.1.0",
+      "_integrity": "sha512-CiJwSLsSyA6gHAfEuLiqyOJUSg1LzgUuiBcTCxEpnd2XIa81DuWCNgHpZGfh1Z7AWZ+r7kZ+oJvVi3ya39mOHA==",
+      "_resolved": "/private/var/folders/qv/4y3_jfb5291gcbxzm6t3_btw0000gn/T/21007a5f324e1b8651995a7813e4f0db/laney-components-1.1.0.tgz",
+      "_from": "file:laney-components-1.1.0.tgz",
+      "_nodeVersion": "16.16.0",
+      "_npmVersion": "8.11.0",
+      "dist": {
+        "integrity": "sha512-CiJwSLsSyA6gHAfEuLiqyOJUSg1LzgUuiBcTCxEpnd2XIa81DuWCNgHpZGfh1Z7AWZ+r7kZ+oJvVi3ya39mOHA==",
+        "shasum": "51ce981479f7d0c0f1b589a90dbe29cb37097f09",
+        "tarball": "http://localhost:4873/@laney%2fcomponents/-/components-1.1.0.tgz"
+      },
+      "contributors": []
+    },
+    "1.2.0": {
+      "name": "@laney/components",
+      "version": "1.2.0",
+      "description": "",
+      "main": "index.js",
+      "type": "module",
+      "module": "./dist/index.js",
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "dependencies": {
+        "@laney/hooks": "2.0.1",
+        "react": "~18.2.0",
+        "react-dom": "~18.2.0",
+        "typescript": "~4.8.3"
+      },
+      "devDependencies": {
+        "@types/react-dom": "~18.0.6",
+        "@types/react": "~18.0.18",
+        "rollup-plugin-swc": "~0.2.1",
+        "typescript": "~4.8.3",
+        "@swc/core": "~1.2.249",
+        "@rollup/plugin-typescript": "~8.5.0",
+        "tslib": "~2.4.0"
+      },
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "rollup -c"
+      },
+      "gitHead": "ad470db1c09fe13dcd807dd3226eba02732237d1",
+      "_id": "@laney/components@1.2.0",
+      "_integrity": "sha512-wjkXEYa1MJyd43K7mdf+bfFhWCyc2rLIF7FN9ca9eWcfKd75o2MPSuXarFFFxcukP/v9nejc+OEDsfl3OK05fQ==",
+      "_resolved": "/private/var/folders/qv/4y3_jfb5291gcbxzm6t3_btw0000gn/T/7db0a44ebd6bbc1a092c5b8e1e0e808c/laney-components-1.2.0.tgz",
+      "_from": "file:laney-components-1.2.0.tgz",
+      "_nodeVersion": "16.16.0",
+      "_npmVersion": "8.11.0",
+      "dist": {
+        "integrity": "sha512-wjkXEYa1MJyd43K7mdf+bfFhWCyc2rLIF7FN9ca9eWcfKd75o2MPSuXarFFFxcukP/v9nejc+OEDsfl3OK05fQ==",
+        "shasum": "91b3668435bf46a077b3c93ed70ea67264cda51a",
+        "tarball": "http://localhost:4873/@laney%2fcomponents/-/components-1.2.0.tgz"
+      },
+      "contributors": []
+    }
+  },
+  "time": {
+    "modified": "2022-09-10T12:51:10.684Z",
+    "created": "2022-09-08T16:26:55.896Z",
+    "1.0.1": "2022-09-08T16:26:55.896Z",
+    "1.1.0": "2022-09-10T12:23:46.228Z",
+    "1.2.0": "2022-09-10T12:51:10.684Z"
+  },
+  "users": {},
+  "dist-tags": {
+    "latest": "1.2.0"
+  },
+  "_rev": "9-91a3be6d7be42333",
+  "_id": "@laney/components",
+  "readme": "ERROR: No README data found!",
+  "_attachments": {}
+}

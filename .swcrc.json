@@ -13,8 +13,7 @@
       },
       "transform": {
         "react": {
-            "runtime": "automatic",
-            "refresh": true
+            "runtime": "automatic"
         }
       }
     }
